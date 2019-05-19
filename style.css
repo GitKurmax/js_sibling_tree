@@ -1,0 +1,7 @@
+  .hidden {
+    display: none;
+  }
+
+  a:hover {
+    font-weight: bold;
+  }
